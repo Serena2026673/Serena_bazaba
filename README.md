@@ -13,8 +13,8 @@ Je m’intéresse à l’exploitation des données pour comprendre des probléma
 Compétences techniques
 
 * Programmation : Python, R
-* Bases de données : SQL, MongoDB
-* Domaines : Analyse de données, Machine Learning, Business Intelligence
+* Bases de données : SQL, MongoDB , neo4j
+* business intellignce : power bi 
 
 Projets
 
