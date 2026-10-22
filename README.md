@@ -22,6 +22,6 @@ Je réalise des projets pour mettre en pratique mes connaissances, notamment en 
 
 Me retrouver
 
-* LinkedIn : https://www.linkedin.com/in/séréna-nkodia-bazaba-b87601445?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-* GitHub : serena-bazaba
+* LinkedIn : https://www.linkedin.com/in/serena-nkodia-bazaba
+* GitHub : Serena_bazaba
 * email : bazabaserena@gmail.com
