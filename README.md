@@ -1,6 +1,6 @@
 Bonjour, je suis Séréna Bazaba
 
-Étudiante en Data Science | Analyse de données | Machine Learning
+Étudiante en Data Science | Analyse de données | Machine Learning | business  intelligence 
 
 Je m’intéresse à l’exploitation des données pour comprendre des problématiques, identifier des tendances et contribuer à une meilleure prise de décision.
 
